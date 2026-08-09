@@ -40,67 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-
-
-- **[Promptfoo](https://www.promptfoo.dev/)**  
-
-  Open-source-friendly LLM evaluation and red-teaming platform with declarative configs, multi-model comparison, and strong CI/CD integration (also available as a managed experience).
-
-
-
-- **[DeepEval / Confident AI](https://deepeval.com/)**  
-
-  Comprehensive LLM evaluation framework with extensive metrics; Confident AI provides the hosted collaboration and production evaluation layer.
-
-
-
-- **[Ragas](https://docs.ragas.io/)**  
-
-  Specialized evaluation toolkit focused on Retrieval-Augmented Generation (RAG) pipelines with reference-free metrics for faithfulness, relevancy, and context quality.
-
-
-
-- **[Langfuse](https://langfuse.com/)**  
-
-  Open-source LLM engineering platform for tracing, prompt management, evaluations, datasets, and observability (self-hosted or cloud).
-
-
-
-- **[Humanloop](https://humanloop.com/)**  
-
-  Platform for prompt engineering, evaluation, and monitoring of LLM applications with collaborative workflows.
-
-
-
-- **[Arize Phoenix / Arize AX](https://phoenix.arize.com/)**  
-
-  Open-source observability and evaluation toolkit (Phoenix) with a commercial platform (AX) for production LLM monitoring and evaluation.
-
-
-
-- **[Galileo](https://www.rungalileo.io/)**  
-
-  AI evaluation and observability platform focused on agent and LLM quality, with specialized scorers and production insights.
-
-
-
-- **[Braintrust](https://www.braintrust.dev/)**  
-
-  Evaluation-first platform for testing, logging, and iterating on LLM applications with strong support for experiments and human review.
-
-
-
-- **[Confident AI](https://www.confident-ai.com/)**  
-
-  Hosted evaluation and collaboration platform built around DeepEval metrics for teams running systematic LLM testing.
-
-
-
-- **[OpenPipe](https://openpipe.ai/)**  
-
-  Platform focused on fine-tuning, evaluation, and optimization of LLM applications with dataset and experiment management.
+| Product Name | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Promptfoo](https://www.promptfoo.dev/)** | Open-source-friendly LLM evaluation and red-teaming platform with declarative configs, multi-model comparison, and strong CI/CD integration. | $50/month (Team Plan) | Free open-source CLI/self-hosted tier with up to 10,000 red-teaming probes/month |
+| **[DeepEval / Confident AI](https://deepeval.com/)** | Comprehensive LLM evaluation framework with extensive metrics; Confident AI provides the hosted collaboration layer. | $200/month (Starter Plan) | Free tier ($0) with 2 user seats, 1 project, and 5 test runs/week |
+| **[Ragas](https://docs.ragas.io/)** | Specialized evaluation toolkit focused on Retrieval-Augmented Generation (RAG) pipelines with reference-free metrics. | $0/month (Self-Hosted Framework) | Free & open-source Python library (Apache 2.0); self-hostable with no platform usage cap (LLM API provider costs apply) |
+| **[Langfuse](https://langfuse.com/)** | Open-source LLM engineering platform for tracing, prompt management, evaluations, datasets, and observability. | $29/month (Cloud Core Plan) | Free Hobby Cloud tier with 50,000 billable units/month, 30 days data retention, and up to 2 users |
+| **[Humanloop](https://humanloop.com/)** | Platform for prompt engineering, evaluation, and monitoring of LLM applications with collaborative workflows. | Contact Sales (Custom Enterprise Pricing) | Free trial plan with 2 team members, 50 evaluation runs, and 10,000 logs/month |
+| **[Arize Phoenix / Arize AX](https://phoenix.arize.com/)** | Observability and evaluation toolkit (Phoenix) with a commercial platform (Arize AX) for production LLM monitoring. | $50/month (AX Pro Plan) | Free AX tier with 25,000 spans/month and 1 GB storage (or unlimited via OSS Phoenix) |
+| **[Galileo](https://www.rungalileo.io/)** | AI evaluation and observability platform focused on agent and LLM quality, with specialized scorers and production insights. | $100/month (Pro Plan) | Free tier ($0/mo) with 5,000 traces/month and unlimited user access |
+| **[Braintrust](https://www.braintrust.dev/)** | Evaluation-first platform for testing, logging, and iterating on LLM applications with strong support for experiments. | $249/month (Pro Plan) | Free Starter tier ($0/mo) with 1 GB processed data/month, 10,000 scores/month, and 14-day retention |
+| **[Confident AI](https://www.confident-ai.com/)** | Hosted evaluation and collaboration platform built around DeepEval metrics for teams running systematic LLM testing. | $200/month (Starter Plan) | Free tier ($0/mo) with 2 user seats, 1 project, and 5 test runs/week |
+| **[OpenPipe](https://openpipe.ai/)** | Platform focused on fine-tuning, evaluation, and optimization of LLM applications with dataset and experiment management. | $0.48 / 1M tokens (Pay-As-You-Go Training) | Self-hosted open-source framework ART (Agent Reinforcement Trainer) available for free local GPU training; managed platform operates on pay-as-you-go |
 
 
 
